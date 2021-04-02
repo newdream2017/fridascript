@@ -1,1 +1,1 @@
-# fridascript
+收集的脚本

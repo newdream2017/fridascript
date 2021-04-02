@@ -1,0 +1,8 @@
+issh
+
+https://github.com/4ch12dy/xia0LLDB  
+
+反调试  croc  后执行debugme  没成功
+
+
+
